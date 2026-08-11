@@ -1,4 +1,6 @@
-## Hi there 👋
+## apnacollege-demo
+This is my first Git Repository.
+Author - Parampreet Singh Sara
 
 <!--
 **Raunak773/Raunak773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
